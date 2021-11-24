@@ -1,4 +1,4 @@
-# Terraform VCN for Oracle Cloud Infrastructure 4 Vili's OCI
+# Terraform VCN for Oracle Cloud Infrastructure 4 Vili's OCI - updated
 
 The [Terraform VCN][repo] for [Oracle Cloud Infrastructure][OCI] provides a reusable [Terraform][terraform] module that provisions a minimal VCN on OCI.
 
